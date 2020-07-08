@@ -4,8 +4,8 @@ Desarrollé los componentes gráficos del login y la vista principal en sus proy
 
 login
 
-![login](./login.png)
+![login](./login.PNG)
 
 Vista
 
-![vista](./vista.png)
+![vista](./vista.PNG)
